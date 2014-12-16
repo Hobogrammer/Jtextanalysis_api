@@ -2,8 +2,6 @@
 
 Wrapper for the Yahoo Japanese text analysis api.
 
-TODO: Write a gem description
-
 ## Installation
 
 Add this line to your application's Gemfile:
