@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Coming soon.
+1. Register a yahoo jp ID.
+2. Register application with yahoo jp.
+
 
 ## Contributing
 
