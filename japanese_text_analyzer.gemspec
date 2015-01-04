@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "japanese_text_analyzer"
   spec.version       = JapaneseTextAnalyzer::VERSION
   spec.authors       = ["Andre Smith"]
-  spec.email         = ["lordsilent@gmail.com"]
+  spec.email         = ["andrepsmithjr@gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
@@ -20,4 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "nokogiri"
+  spec.add_development_dependency "faraday"
 end
